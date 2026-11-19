@@ -1,6 +1,6 @@
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1e5aa8,100:38bdf8&height=220&section=header&text=Uy+Chakriya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Web+Developer+%C2%B7+Phnom+Penh,+Cambodia&descSize=18&descAlignY=58" alt="header" /></p>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1e5aa8,100:38bdf8&height=220&section=header&text=Uy+Chakriya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX+Designer+%26+Full-Stack+Developer+%C2%B7+Phnom+Penh,+Cambodia&descSize=18&descAlignY=58" alt="header" /></p>
 
-<p align="center"><a href="https://github.com/uychakriya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Web+Developer+%F0%9F%92%BB;Next.js+%26+React+Frontend+%E2%9A%9B%EF%B8%8F;iOS+Development+with+SwiftUI+%F0%9F%8D%8E;Exploring+Local+LLM+Engineering+%F0%9F%A4%96" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/uychakriya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Figma+for+Web+%26+Mobile+%E2%9C%8F%EF%B8%8F;Next.js+%26+React+Frontend+%E2%9A%9B%EF%B8%8F;Exploring+Full-Stack+%26+Backend+%E2%9A%99%EF%B8%8F;iOS+Development+with+SwiftUI+%F0%9F%8D%8E" alt="Typing SVG" /></a></p>
 
 <p align="center">
   <a href="https://www.lyhovdev.site/"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -15,31 +15,38 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class UyChakriya {
+> *I love turning ideas into clean, user-friendly products. I design web and mobile apps in Figma, build them on the frontend, and I'm growing into backend and full-stack development.*
 
-    String location  = "Phnom Penh, Cambodia 🇰🇭";
-    String role      = "Full-Stack Web Developer";
-
-    String[] education = {
-        "B.Sc. Information Technology @ Build Bright University (2022–2026)",
-        "HRD Center: Java, Spring Boot, Next.js, PostgreSQL"
-    };
-
-    String[] currentFocus = {
-        "Spring Boot Microservices",
-        "iOS Development with SwiftUI",
-        "AI Engineering (Local LLM)"
-    };
-
-    String funFact = "60+ repos of coursework & team projects on @Uy-Chakriya";
-}
-```
+- 📍 **Location:** Phnom Penh, Cambodia 🇰🇭
+- 💼 **Role:** UI/UX Designer & Full-Stack Developer
+- 🎨 **Design:** Web & mobile app UI in Figma: wireframes, prototypes, design systems
+- 💻 **Frontend:** Next.js · React · JavaScript · HTML · CSS · Bootstrap
+- ⚙️ **Backend:** Java · Spring Boot · Spring Security · PostgreSQL
+- 📱 **Mobile:** iOS with SwiftUI · Flutter
+- 🌱 **Exploring:** Full-stack projects from design to deployment · Spring Boot microservices
+- 🎓 **Education:** B.Sc. Information Technology @ National University of Management (2022–2026)
+- 🏫 **Training:** HRD Center: Java, Spring Boot, Next.js, PostgreSQL
 
 ## 🛠️ Tech Stack
 
 <table>
 <tr>
+<td valign="top" width="33%" align="center">
+<h4>🎨 UI/UX Design</h4>
+<img src="https://img.shields.io/badge/Figma-132a4a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/FigJam-132a4a?style=for-the-badge&logo=figma&logoColor=38BDF8" alt="FigJam" />
+<img src="https://img.shields.io/badge/Prototyping-132a4a?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Prototyping" />
+<img src="https://img.shields.io/badge/Design%20Systems-132a4a?style=for-the-badge&logo=figma&logoColor=93C5FD" alt="Design Systems" />
+</td>
+<td valign="top" width="33%" align="center">
+<h4>💻 Frontend</h4>
+<img src="https://img.shields.io/badge/Next.js-132a4a?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-132a4a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-132a4a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-132a4a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-132a4a?style=for-the-badge&logo=css&logoColor=2965F1" alt="CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-132a4a?style=for-the-badge&logo=bootstrap&logoColor=93C5FD" alt="Bootstrap" />
+</td>
 <td valign="top" width="33%" align="center">
 <h4>⚙️ Backend</h4>
 <img src="https://img.shields.io/badge/Java-132a4a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
@@ -49,15 +56,8 @@ public class UyChakriya {
 <img src="https://img.shields.io/badge/PHP-132a4a?style=for-the-badge&logo=php&logoColor=93C5FD" alt="PHP" />
 <img src="https://img.shields.io/badge/C%23-132a4a?style=for-the-badge&logo=dotnet&logoColor=93C5FD" alt="C#" />
 </td>
-<td valign="top" width="33%" align="center">
-<h4>🎨 Frontend</h4>
-<img src="https://img.shields.io/badge/Next.js-132a4a?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-132a4a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-132a4a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-132a4a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-132a4a?style=for-the-badge&logo=css&logoColor=2965F1" alt="CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-132a4a?style=for-the-badge&logo=bootstrap&logoColor=93C5FD" alt="Bootstrap" />
-</td>
+</tr>
+<tr>
 <td valign="top" width="33%" align="center">
 <h4>📱 Mobile</h4>
 <img src="https://img.shields.io/badge/Swift-132a4a?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift" />
@@ -65,23 +65,17 @@ public class UyChakriya {
 <img src="https://img.shields.io/badge/Flutter-132a4a?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
 <img src="https://img.shields.io/badge/Dart-132a4a?style=for-the-badge&logo=dart&logoColor=00B4AB" alt="Dart" />
 </td>
-</tr>
-<tr>
 <td valign="top" width="33%" align="center">
 <h4>🗄️ Database</h4>
 <img src="https://img.shields.io/badge/PostgreSQL-132a4a?style=for-the-badge&logo=postgresql&logoColor=6FA8DC" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQLite-132a4a?style=for-the-badge&logo=sqlite&logoColor=7FC8F8" alt="SQLite" />
 </td>
 <td valign="top" width="33%" align="center">
-<h4>🤖 AI · Local LLM</h4>
-<img src="https://img.shields.io/badge/Ollama-132a4a?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
-</td>
-<td valign="top" width="33%" align="center">
-<h4>🧰 Tools</h4>
+<h4>🧰 Tools & AI</h4>
 <img src="https://img.shields.io/badge/Git-132a4a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-132a4a?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/Figma-132a4a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-132a4a?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/Ollama-132a4a?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
 </td>
 </tr>
 </table>
@@ -147,11 +141,11 @@ public class UyChakriya {
 
 | When | Milestone |
 |:---:|---|
-| **2022** | Started Bachelor in IT @ Build Bright University |
-| **2023** | IT Support Internship @ Build Bright University · HTML, CSS, Bootstrap, PHP, C# |
+| **2022** | Started Bachelor in IT @ National University of Management |
+| **2023** | First web projects: HTML, CSS, Bootstrap, PHP, C# |
 | **2026** | HRD Center basic course: Java, Spring Boot, Next.js, PostgreSQL |
 | **2026** | Team projects: PocketMart (mobile) · WebBlock (Spring microservices + iOS) |
-| **Now** | Spring microservices · SwiftUI · Local LLM engineering |
+| **Now** | UI/UX design in Figma · Frontend with Next.js · Exploring full-stack & backend |
 
 
 ## 📊 GitHub Activity
